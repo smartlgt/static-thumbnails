@@ -28,6 +28,7 @@ setup(
     url='https://github.com/mawilmsen/static-thumbnails',
     description='Extension to easy_thumbnails for Django providing thumbnails from static files',
     long_description=read_files('README.md'),
+    long_description_content_type='text/markdown',
     author='Marc-Alexander Wilmsen',
     author_email='wilmsen@valloc.de',
     platforms=['any'],
